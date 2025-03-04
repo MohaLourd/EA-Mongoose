@@ -57,3 +57,5 @@ node dist/mongoogse.js
 ```
 
 ENLACE PARA EL VIDEO: https://drive.google.com/file/d/1XGGlbNiAqdKT3ysW1B5v80XkZ_WbjyA_/view?usp=sharing
+Referencias: https://www.youtube.com/watch?embed=no&v=gfP3aqV38q4
+             IA, chat gpt. 
